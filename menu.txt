@@ -4,3 +4,4 @@ dark blue
 grey
 meroon
 coral
+cyan
