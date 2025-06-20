@@ -5,3 +5,7 @@ navy blue
 dark blue
 grey
 meroon
+coral
+cyan
+tan
+
