@@ -2,3 +2,4 @@ red
 blue
 dark blue
 grey
+meroon
