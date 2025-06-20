@@ -5,3 +5,4 @@ grey
 meroon
 coral
 cyan
+tan
