@@ -1,5 +1,7 @@
 red
 blue
+purple
+navy blue
 dark blue
 grey
 meroon
